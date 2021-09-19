@@ -25,7 +25,7 @@ POST -H "Content-Type: application/json" -d \
 localhost:8080/api/getCO2City
 ```
 
-3. postCO2, is where the Sensor sends his data.
+3. postCO2, is where the sensor sends its data.
 The curl command for it is:
 ```
 curl -X \
